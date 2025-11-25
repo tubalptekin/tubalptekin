@@ -25,9 +25,25 @@ to create meaningful improvements.
 
 </div>
 
+---
+<br>
+⎛⎝ ≽ > ⩊ < ≼ ⎠⎞
+<p align="left">
+<em>🎀You can view my Business Analyst portfolio through the link below.⤶</em>
+</p>
+
+<p align="left">
+  <a href="https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-C184F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTQgMTBoLTR2NEgxMnYtNEg4djJINHYtMmg0di0yaDJ2Mmg0djJoNHYyaC00djJ6Ii8+PC9zdmc+" />
+  </a>
+</p>
+
+
 <br>
 
-## 🛠️ Tech Stack
+## 👨🏻‍💻 Tech Stack
+
+<br>
 
 ### 🎨 Tools & Design
 <p align="center">
