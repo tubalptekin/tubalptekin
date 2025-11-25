@@ -105,4 +105,12 @@ to create meaningful improvements.
   </a>
 </p>
 
+---
 
+<p align="center">
+  ❀°♡ ⋆｡˚♡ ⋆｡ ˚❀˖  
+  <br>
+  <sub>Made with ˗ˋˏ♡ˎˊ˗ and curiosity — Tuğba Alptekin</sub>
+  <br>
+  ❀°♡ ⋆｡˚♡ ⋆｡ ˚❀
+</p>
