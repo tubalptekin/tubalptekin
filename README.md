@@ -110,7 +110,8 @@ to create meaningful improvements.
 <p align="center">
   ❀°♡ ⋆｡˚♡ ⋆｡ ˚❀˖  
   <br>
-  <sub>Made with ˗ˋˏ♡ˎˊ˗ and curiosity — Tuğba Alptekin</sub>
+  <sub><em>Made with ˗ˋˏ♡ˎˊ˗ and curiosity — Thanks for visiting!</em></sub>
+  
   <br>
   ❀°♡ ⋆｡˚♡ ⋆｡ ˚❀
 </p>
