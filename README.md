@@ -28,6 +28,8 @@ to create meaningful improvements.
 <br>
 
 ---
+<br>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -35,10 +37,11 @@ to create meaningful improvements.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tubalptekin&layout=compact&theme=calm&hide_border=true&title_color=C184F2&text_color=C184F2" width="350" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tubalptekin&layout=compact&theme=calm&hide_border=true&title_color=C184F2&text_color=C184F2" width="450" />
 </p>
 
 ---
+<br>
 
 ## 🌐 Let's Connect
 
