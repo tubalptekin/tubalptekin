@@ -37,7 +37,9 @@ to create meaningful improvements.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tubalptekin&layout=compact&theme=calm&hide_border=true&title_color=C184F2&text_color=C184F2" width="350" />
 </p>
+
 ---
+
 ## 🌐 Let's Connect
 
 <p align="center">
