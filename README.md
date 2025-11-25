@@ -27,6 +27,34 @@ to create meaningful improvements.
 
 <br>
 
+## 🛠️ Tech Stack
+
+### 🎨 Tools & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-A98DF0?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-C184F2?style=for-the-badge&logo=miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-9A79FF?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-836FFF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🧩 Analysis & Modeling  
+- BPMN 2.0 (process modeling)  
+- UML (Use Case, Activity, Sequence)  
+- Process Mapping  
+- Business Rules Documentation  
+- Wireframing & UI/UX Sketches  
+
+### 🗄️ Technical  
+- SQL (Basic Queries)  
+- API Fundamentals  
+- JSON & XML Basics  
+- Data-oriented thinking  
+
+### 🔧 Collaboration  
+- Agile / Scrum  
+- Requirement Elicitation  
+- Acceptance Criteria Writing  
+
 ---
 <br>
 
@@ -43,6 +71,13 @@ to create meaningful improvements.
 ---
 <br>
 
+## 📚 Currently Learning
+- Advanced SQL  
+- API Testing  
+- BPMN Deep Dive
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -50,7 +85,8 @@ to create meaningful improvements.
     <img src="https://img.shields.io/badge/LinkedIn-4B3B8F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tugbalptekin37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-836FFF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-A98DF0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
