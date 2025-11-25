@@ -28,22 +28,15 @@ to create meaningful improvements.
 <br>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tubalptekin&show_icons=true&theme=calm&hide_border=true&title_color=4B3B8F&icon_color=9A79FF&text_color=3A2F6A" width="450" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tubalptekin&show_icons=true&theme=calm&hide_border=true&title_color=C184F2&icon_color=C184F2&text_color=C184F2" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tubalptekin&theme=calm&hide_border=true&background=FFFFFF&ring=9A79FF&fire=C8B6FF&currStreakNum=4B3B8F" width="450" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tubalptekin&layout=compact&theme=calm&hide_border=true&title_color=C184F2&text_color=C184F2" width="350" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubalptekin&layout=compact&theme=calm&hide_border=true&title_color=4B3B8F&text_color=3A2F6A" width="350" />
-</p>
-
-
 ---
 ## 🌐 Let's Connect
 
