@@ -41,7 +41,7 @@ to create meaningful improvements.
 
 <br>
 
-## 👨🏻‍💻 Tech Stack
+## 👩🏻‍💻 Tech Stack
 
 <br>
 
